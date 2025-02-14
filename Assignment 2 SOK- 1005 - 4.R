@@ -60,9 +60,9 @@ sales_comparison <- monthly_sales %>%
 #Task 1.4 (note: come back to, hard to start)
 
 
-#Task 2 (note: problems with plot)
+#Task 2 
 
-#task 2a (note: numbers too big)
+#task 2a (note: numbers too big, graph is not helpful)
 
 url <- "https://www.motor.no/aktuelt/motors-store-vintertest-av-rekkevidde-pa-elbiler/217132"
 webpage <- read_html(url)
